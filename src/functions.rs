@@ -1,9 +1,9 @@
 pub fn power_of_2_for(number: i32) -> i32 {
-    todo!()
+    number.pow(2)
 }
 
 pub fn get_max(first: i64, second: i64) -> i64 {
-    todo!()
+    first.max(second)
 }
 
 pub fn hello(name: String) -> String {
